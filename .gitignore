@@ -1,0 +1,12 @@
+# Personal source material and legacy site exports
+/CV_*.pdf
+/TQM Lab.html
+/TQM Lab_files/
+/VS code/
+/.vscode/
+/style.css
+
+# Local tooling
+.DS_Store
+Thumbs.db
+desktop.ini
